@@ -1,0 +1,9 @@
+.red-heading {
+  color: red;
+}
+
+@media (min-width: 700px) {
+  .three-columns {
+    display: flex;
+  }
+}
